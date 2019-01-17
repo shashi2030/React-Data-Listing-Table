@@ -1,0 +1,9 @@
+table{
+    width:100%;
+    display: table;
+    border-collapse: collapse;
+}
+td,th{
+    text-transform: capitalize;
+    border:solid 1px gray;
+}
